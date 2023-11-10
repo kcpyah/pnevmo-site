@@ -1,4 +1,9 @@
-@font-face {
-	font-family: 'ArialBold';
-	src: url(/pnevmo-site/arial_bold.ttf);
+.minibox {
+    width: 200%;
+}
+.width {
+    width: 50%;
+}
+.max {
+    max-width: 50%;
 }
